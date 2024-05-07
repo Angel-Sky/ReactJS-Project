@@ -16,7 +16,7 @@
     "react-infinite-scroll-component": "^6.0.0",
     "react-moment": "^1.1.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "socket.io-client": "^4.0.1",
     "web-vitals": "^1.1.1"
   },
@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "http://localhost:5001"
 }
